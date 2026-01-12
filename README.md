@@ -48,7 +48,7 @@ Me chamo Isabella Ramos Rocha, tenho 21 anos e sou natural do Rio de Janeiro, mo
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple 'icons@v11/icons/c.svg"         
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"         
 />
 <img 
     align="left" 
