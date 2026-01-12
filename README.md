@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Isabella Ramos Rocha, tenho 21 anos e sou natural do Rio de Janeiro, moradora de Niterói. Concluí o ensino médio no IFRJ, com o curso técnico em informática. Atualmente, curso Sistemas de Informação (6° Semestre) na Unilasalle-RJ. Sou apaixonada por tecnologia e compartilho meu aprendizado, experiências e projetos com foco em desenvolvimento com Python e dados por meio do meu LinkedIn [Iswb04](www.linkedin.com/in/Iswb04), onde falo sobre meus projetos, aprendizado em programação e minha evolução na área de tecnologia.
+Me chamo Isabella Ramos Rocha, tenho 21 anos e sou natural do Rio de Janeiro, moradora de Niterói. Concluí o ensino médio no IFRJ, com o curso técnico em informática. Atualmente, curso Sistemas de Informação (6° Semestre) na Unilasalle-RJ. Sou apaixonada por tecnologia e compartilho meu aprendizado, experiências e projetos com foco em desenvolvimento com Python e dados por meio do meu LinkedIn, onde falo sobre meus projetos, aprendizado em programação e minha evolução na área de tecnologia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/isabella-ramos-3aa7a5263">
