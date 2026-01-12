@@ -12,6 +12,7 @@ Me chamo Isabella Ramos Rocha, tenho 21 anos e sou natural do Rio de Janeiro, mo
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B250-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
+     &nbsp;&nbsp;
     <a href="https://www.instagram.com/iswb04"> 
         <img 
             alt="Instagram Seguidores"
