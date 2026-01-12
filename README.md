@@ -52,6 +52,14 @@ Me chamo Isabella Ramos Rocha, tenho 21 anos e sou natural do Rio de Janeiro, mo
 />
 <img 
     align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/353657/django-icon.svg"         
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
