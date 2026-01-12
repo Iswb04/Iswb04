@@ -9,21 +9,14 @@ Me chamo Isabella Ramos Rocha, tenho 21 anos e sou natural do Rio de Janeiro, mo
         <img 
             alt="LinkedIn Seguidores"
             title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B250-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
-    <a href="https://www.linkedin.com/in/isabella-ramos-3aa7a5263/">
-        <img 
-            alt="LinkedIn Views"
-            title="Visualizações no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-%2B1k-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32"
-        />
-    </a>
-    <a href="https://www.instagram.com/iswb04/?igsh=NWp6cjRldTA0dzJu&utm_source=qr"> 
+    <a href="https://www.instagram.com/iswb04"> 
         <img 
             alt="Instagram Seguidores"
             title="Siga-me no Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-%2B1k-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-%2B500-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
         />
     </a>
 </p>
