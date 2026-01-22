@@ -1,6 +1,6 @@
 # 👨‍💻 Isabella Ramos
 
-**`Desenvolvedora Backend`**
+**`Analista de Dados e Dev Backend`**
 
 Me chamo Isabella Ramos Rocha, tenho 21 anos e sou natural do Rio de Janeiro, moradora de Niterói. Concluí o ensino médio no IFRJ, com o curso técnico em informática. Atualmente, curso Sistemas de Informação (6° Semestre) na Unilasalle-RJ. Sou apaixonada por tecnologia e compartilho meu aprendizado, experiências e projetos com foco em desenvolvimento com Python e dados por meio do meu LinkedIn, onde falo sobre meus projetos, aprendizado em programação e minha evolução na área de tecnologia.
 
