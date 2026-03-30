@@ -1,6 +1,6 @@
 # 👨‍💻 Isabella Ramos
 
-**`Analista de Dados e Dev Backend`**
+**`Analista de Dados`**
 
 Me chamo Isabella Ramos Rocha, tenho 22 anos e sou natural do Rio de Janeiro, moradora de Niterói. Concluí o ensino médio no IFRJ, com o curso técnico em informática. Atualmente, curso Sistemas de Informação (6° Período) na Unilasalle-RJ. Sou apaixonada por tecnologia e compartilho meu aprendizado, experiências e projetos com foco em desenvolvimento com Python e dados por meio do meu LinkedIn, onde falo sobre meus projetos, aprendizado em programação e minha evolução na área de tecnologia.
 
@@ -9,7 +9,7 @@ Me chamo Isabella Ramos Rocha, tenho 22 anos e sou natural do Rio de Janeiro, mo
         <img 
             alt="LinkedIn Seguidores"
             title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B350-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B400-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
      &nbsp;&nbsp;
