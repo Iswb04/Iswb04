@@ -1,4 +1,4 @@
-# 👨‍💻 Isabella Ramos
+# Isabella Ramos 💻
 
 **`Analista de Dados`**
 
