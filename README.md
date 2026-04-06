@@ -9,7 +9,7 @@ Tenho 22 anos e sou natural do Rio de Janeiro e concluí o ensino médio no IFRJ
         <img 
             alt="LinkedIn Seguidores"
             title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B400-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B450-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
      &nbsp;&nbsp;
