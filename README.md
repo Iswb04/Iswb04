@@ -1,6 +1,6 @@
 # Isabella Ramos 💻
 
-**`Analista de Dados`**
+**`Analytics Engineer`**
 
 Tenho 22 anos e sou natural do Rio de Janeiro e concluí o ensino médio no IFRJ, com o curso técnico em informática. Atualmente, curso Sistemas de Informação (6° Período) na Unilasalle-RJ. Sou apaixonada por tecnologia e compartilho meu aprendizado, experiências e projetos com foco em desenvolvimento com Python e dados.
 
@@ -9,7 +9,7 @@ Tenho 22 anos e sou natural do Rio de Janeiro e concluí o ensino médio no IFRJ
         <img 
             alt="LinkedIn Seguidores"
             title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B450-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
      &nbsp;&nbsp;
@@ -17,7 +17,7 @@ Tenho 22 anos e sou natural do Rio de Janeiro e concluí o ensino médio no IFRJ
         <img 
             alt="Instagram Seguidores"
             title="Siga-me no Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-%2B500-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-%2B450-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
         />
     </a>
 </p>
