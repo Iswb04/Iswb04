@@ -2,7 +2,7 @@
 
 **`Analytics Engineer`**
 
-Tenho 22 anos e sou natural do Rio de Janeiro e concluí o ensino médio no IFRJ, com o curso técnico em informática. Atualmente, curso Sistemas de Informação (6° Período) na Unilasalle-RJ. Sou apaixonada por tecnologia e compartilho meu aprendizado, experiências e projetos com foco em desenvolvimento com Python e dados.
+Tenho 22 anos, sou natural do Rio de Janeiro e concluí o ensino médio no IFRJ com o curso técnico em informática. Atualmente, curso Sistemas de Informação (6° Período) na Unilasalle-RJ. Sou apaixonada por tecnologia e compartilho meu aprendizado, experiências e projetos com foco em desenvolvimento com Python e dados.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/isabella-ramos-y04">
