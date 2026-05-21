@@ -2,14 +2,14 @@
 
 **`Analytics Engineer`**
 
-Tenho 22 anos, sou natural do Rio de Janeiro e concluí o ensino médio no IFRJ com o curso técnico em informática. Atualmente, curso Sistemas de Informação (6° Período) na Unilasalle-RJ. Sou apaixonada por tecnologia e compartilho meu aprendizado, experiências e projetos com foco em desenvolvimento com Python e dados.
+Analytics Engineer e Desenvolvedora Python em formação. Minha trajetória na tecnologia começou no IFRJ e atualmente continua na graduação em Sistemas de Informação. Hoje, aos 22 anos, venho aprofundando meus conhecimentos em desenvolvimento backend, bancos de dados, engenharia de dados e aplicações de Inteligência Artificial.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/isabella-ramos-y04">
         <img 
             alt="LinkedIn Seguidores"
             title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B+500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
      &nbsp;&nbsp;
