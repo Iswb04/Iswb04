@@ -112,6 +112,15 @@ Analytics Engineer e Desenvolvedora Python em formação. Minha trajetória na t
 />
 <img 
     align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://codigostartup.com/logos/docker.png" 
+/>
+
+<img 
+    align="left" 
     alt="VsCode" 
     title="VsCode"
     width="30px" 
