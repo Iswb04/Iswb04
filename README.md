@@ -52,7 +52,22 @@ Analytics Engineer e Desenvolvedora Python em formação. Minha trajetória na t
     src="https://images.seeklogo.com/logo-png/48/2/pandas-icon-logo-png_seeklogo-483545.png"         
 />
 
-
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/3840px-Amazon_Web_Services_Logo.svg.png"         
+/>
+<img 
+    align="left" 
+    alt="Jupyter Notebook" 
+    title="Jupyter Notebook"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png"         
+/>
 <img 
     align="left" 
     alt="Django" 
@@ -61,6 +76,7 @@ Analytics Engineer e Desenvolvedora Python em formação. Minha trajetória na t
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/353657/django-icon.svg"         
 />
+
 
 <img 
     align="left" 
