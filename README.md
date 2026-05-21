@@ -9,7 +9,7 @@ Analytics Engineer e Desenvolvedora Python em formação. Minha trajetória na t
         <img 
             alt="LinkedIn Seguidores"
             title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B+500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
      &nbsp;&nbsp;
@@ -45,12 +45,14 @@ Analytics Engineer e Desenvolvedora Python em formação. Minha trajetória na t
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="Pandas" 
+    title="Pandas"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"         
+    src="https://images.seeklogo.com/logo-png/48/2/pandas-icon-logo-png_seeklogo-483545.png"         
 />
+
+
 <img 
     align="left" 
     alt="Django" 
@@ -58,6 +60,15 @@ Analytics Engineer e Desenvolvedora Python em formação. Minha trajetória na t
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/353657/django-icon.svg"         
+/>
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"         
 />
 <img 
     align="left" 
