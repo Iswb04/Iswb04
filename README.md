@@ -62,14 +62,6 @@ Analytics Engineer e Desenvolvedora Python em formação. Minha trajetória na t
 />
 <img 
     align="left" 
-    alt="Jupyter Notebook" 
-    title="Jupyter Notebook"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png"         
-/>
-<img 
-    align="left" 
     alt="Django" 
     title="Django"
     width="30px" 
