@@ -108,7 +108,7 @@ Analista de Dados e Desenvolvedora Python em formação. Minha trajetória na te
     title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://codigostartup.com/logos/docker.png" 
+    src="https://www.kevinmcox.com/wordpress/wp-content/uploads/2022/12/DockerDesktop.png" 
 />
 
 <img 
