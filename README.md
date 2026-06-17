@@ -146,13 +146,11 @@ Analista de IA/Dados e Desenvolvedora Python em formação. Minha trajetória na
     <div align="center">
       <img
         height="180"
-        width="430"
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iswb04&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
       />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
         height="180"
-        width="430"
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iswb04&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
       />
     </div>
