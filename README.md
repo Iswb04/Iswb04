@@ -136,8 +136,6 @@ Analista de IA/Dados e Desenvolvedora Python em formação. Minha trajetória na
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"        
 />
 
-<img align="right" src="https://giffiles.alphacoders.com/531/53140.gif" width="150">
-
 <br/>
 <br/>
 
