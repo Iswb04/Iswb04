@@ -54,14 +54,6 @@ Analista de IA/Dados e Desenvolvedora Python em formação. Minha trajetória na
 
 <img 
     align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/3840px-Amazon_Web_Services_Logo.svg.png"         
-/>
-<img 
-    align="left" 
     alt="Django" 
     title="Django"
     width="30px" 
