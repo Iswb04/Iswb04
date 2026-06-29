@@ -1,8 +1,8 @@
 # Isabella Ramos 💻
 
-**`Analista/Dev`**
+**`DB/DEV`**
 
-Analista de IA e Desenvolvedora Python em formação. Minha trajetória na tecnologia começou no IFRJ e atualmente continua na graduação em Sistemas de Informação. Hoje, aos 22 anos, venho aprofundando meus conhecimentos em desenvolvimento backend, bancos de dados, engenharia de dados e aplicações de Inteligência Artificial.
+Engenheira de Dados e Dev Python em formação. Minha trajetória na tecnologia começou no IFRJ e atualmente continua na graduação em Sistemas de Informação. Hoje, aos 22 anos, venho aprofundando meus conhecimentos em desenvolvimento backend, bancos de dados, engenharia de dados e aplicações de Inteligência Artificial.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/isabella-ramos-y04">
