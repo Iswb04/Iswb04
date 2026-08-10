@@ -137,7 +137,7 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
     <div align="center">
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iswb04&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=Iswb04&show_icons=true&include_all_commits=true&count_private=true&theme=react&custom_title=Isabella%20Ramos%20GitHub%20Stats"
       />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
