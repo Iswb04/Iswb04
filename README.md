@@ -133,20 +133,15 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
 
 ### 📊 Estatísticas
 
-<p>
-    <div align="center">
-      <img
+<div align="center">
+    <img
         height="180"
-        src="https://github-readme-stats.vercel.app/api?username=Iswb04&show_icons=true&include_all_commits=true&count_private=true&theme=react&custom_title=Isabella%20Ramos%20GitHub%20Stats"
-      />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img
+        src="https://github-stats-extended.vercel.app/api?username=Iswb04&show_icons=true&include_all_commits=true&count_private=true&theme=react&custom_title=Isabella%20Ramos%20GitHub%20Stats"
+    />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img
         height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iswb04&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
-      />
-    </div>
-</p>
-
-
-</p>
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Iswb04&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+    />
+</div>
 
