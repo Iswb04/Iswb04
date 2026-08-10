@@ -142,7 +142,7 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iswb04&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iswb04&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
       />
     </div>
 </p>
