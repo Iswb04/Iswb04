@@ -134,10 +134,10 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
 ### 📊 Estatísticas
 
 <div align="center">
-    <img
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&layout=compact&theme=react"
-    />
+<img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=Iswb04&theme=react"
+/>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img
         height="180"
