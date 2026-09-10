@@ -1,4 +1,4 @@
-# Isabella Ramos 💻
+# ⚙️ Isabella Ramos 
 
 **`Engenharia de Dados`**
 
@@ -24,7 +24,7 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🔹 Tech Stack
 
 
 <img 
@@ -119,19 +119,11 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"        
-/>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🔹 Stats
 
 <div align="center">
 <img
@@ -145,17 +137,17 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
     />
 </div>
 
-## 📂 projetos em destaque
+### 🔹 Projetos
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <big><strong>DB READER</strong></big>
+      <h4>DB READER</h4>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-1e3a5f?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Ollama-1e3a5f?style=flat&logo=ollama&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-1e3a5f?style=flat&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/Pandas-1e3a5f?style=flat&logo=pandas&logoColor=white">
       </p>
       <p>
         Aplicação de <strong>NL2SQL</strong> que utiliza LLM local
@@ -165,12 +157,12 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
       <a href="https://github.com/Iswb04/DB_READER">🔗 repositório</a>
     </td>
     <td align="center" width="50%">
-      <big><strong>PFCS</strong></big>
+      <h4>PFCS</h4>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-1e3a5f?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Django-1e3a5f?style=flat&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-1e3a5f?style=flat&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/Pandas-1e3a5f?style=flat&logo=pandas&logoColor=white">
       </p>
       <p>
         Sistema de controle financeiro desenvolvido com Django,
@@ -182,12 +174,11 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
   </tr>
   <tr>
     <td align="center" width="50%">
-      <big><strong>CHAMPION DATA TOOL</strong></big>
-    <br>
+      <h4>CHAMPION DATA TOOL</h4>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-1e3a5f?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-1e3a5f?style=flat&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/SQLite-1e3a5f?style=flat&logo=sqlite&logoColor=white">
       </p>
       <p>
         API desenvolvida com FastAPI para consulta e organização
@@ -197,11 +188,11 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
       <a href="https://github.com/Iswb04/SUMMONERS_API">🔗 repositório</a>
     </td>
     <td align="center" width="50%">
-      <big><strong>AUDIO ASSIST</strong></big>
+      <h4>AUDIO ASSIST</h4>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
-        <img src="https://img.shields.io/badge/Pyttsx3-4B8BBE?style=flat">
+        <img src="https://img.shields.io/badge/Python-1e3a5f?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Ollama-1e3a5f?style=flat&logo=ollama&logoColor=white">
+        <img src="https://img.shields.io/badge/Pyttsx3-1e3a5f?style=flat">
       </p>
       <p>
         Assistente de IA voltado à acessibilidade, utilizando
