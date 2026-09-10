@@ -150,7 +150,7 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>DB READER</h3>
+      <big><strong>DB READER</strong></big>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
@@ -162,10 +162,10 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
         para transformar perguntas em linguagem natural em consultas SQL,
         executar análises e gerar respostas e exportações de dados.
       </p>
-      <a href="SEU_LINK_AQUI">🔗 repositório</a>
+      <a href="https://github.com/Iswb04/DB_READER">🔗 repositório</a>
     </td>
     <td align="center" width="50%">
-      <h3>PFCS</h3>
+      <big><strong>PFCS</strong></big>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
@@ -177,12 +177,12 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
         permitindo registrar receitas e despesas, acompanhar saldo,
         visualizar dados e gerar relatórios.
       </p>
-      <a href="SEU_LINK_AQUI">🔗 repositório</a>
+      <a href="https://github.com/Iswb04/PFCS">🔗 repositório</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>Champion Data Tool</h3>
+      <big><strong>Champion Data Tool</strong></big>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
@@ -193,10 +193,10 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
         de dados de campeões de League of Legends, utilizando
         dados do Data Dragon e banco SQLite.
       </p>
-      <a href="SEU_LINK_AQUI">🔗 repositório</a>
+      <a href="https://github.com/Iswb04/SUMMONERS_API">🔗 repositório</a>
     </td>
     <td align="center" width="50%">
-      <h3>AUDIO ASSIST</h3>
+      <big><strong>AUDIO ASSIST</strong></big>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
