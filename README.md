@@ -183,7 +183,7 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
   <tr>
     <td align="center" width="50%">
       <big><strong>CHAMPION DATA TOOL</strong></big>
-        <br>
+    <br>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
