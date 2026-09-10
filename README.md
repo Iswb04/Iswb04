@@ -145,3 +145,69 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
     />
 </div>
 
+## 📂 projetos em destaque
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Warehouse Assistant</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+      </p>
+      <p>
+        Aplicação de <strong>NL2SQL</strong> que utiliza LLM local
+        para transformar perguntas em linguagem natural em consultas SQL,
+        executar análises e gerar respostas e exportações de dados.
+      </p>
+      <a href="SEU_LINK_AQUI">🔗 repositório</a>
+    </td>
+    <td align="center" width="50%">
+      <h3>PFCS</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+      </p>
+      <p>
+        Sistema de controle financeiro desenvolvido com Django,
+        permitindo registrar receitas e despesas, acompanhar saldo,
+        visualizar dados e gerar relatórios.
+      </p>
+      <a href="SEU_LINK_AQUI">🔗 repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>LoL Champion Data</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+      </p>
+      <p>
+        API desenvolvida com FastAPI para consulta e organização
+        de dados de campeões de League of Legends, utilizando
+        dados do Data Dragon e banco SQLite.
+      </p>
+      <a href="SEU_LINK_AQUI">🔗 repositório</a>
+    </td>
+    <td align="center" width="50%">
+      <h3>Curriculum-RAG</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/RAG-6A5ACD?style=flat">
+        <img src="https://img.shields.io/badge/LLM-000000?style=flat">
+      </p>
+      <p>
+        Projeto de aplicação de <strong>RAG</strong> para recuperação
+        de informações a partir de documentos e utilização de modelos
+        de linguagem para geração de respostas contextualizadas.
+      </p>
+      <a href="SEU_LINK_AQUI">🔗 repositório</a>
+    </td>
+  </tr>
+</table>
