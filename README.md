@@ -150,7 +150,7 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Warehouse Assistant</h3>
+      <h3>DB READER</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
@@ -182,7 +182,7 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>LoL Champion Data</h3>
+      <h3>Champion Data Tool</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
@@ -196,18 +196,18 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
       <a href="SEU_LINK_AQUI">🔗 repositório</a>
     </td>
     <td align="center" width="50%">
-      <h3>Curriculum-RAG</h3>
+      <h3>AUDIO ASSIST</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/RAG-6A5ACD?style=flat">
-        <img src="https://img.shields.io/badge/LLM-000000?style=flat">
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
+        <img src="https://img.shields.io/badge/Pyttsx3-4B8BBE?style=flat">
       </p>
       <p>
-        Projeto de aplicação de <strong>RAG</strong> para recuperação
-        de informações a partir de documentos e utilização de modelos
-        de linguagem para geração de respostas contextualizadas.
+        Assistente de IA voltado à acessibilidade, utilizando
+        processamento de linguagem natural e síntese de voz
+        para interação por áudio.
       </p>
-      <a href="SEU_LINK_AQUI">🔗 repositório</a>
+      <a href="https://github.com/Iswb04/AUDIO_ASSIST">🔗 repositório</a>
     </td>
   </tr>
 </table>
