@@ -202,11 +202,3 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
     </td>
   </tr>
 </table>
-        Assistente de IA voltado à acessibilidade, utilizando
-        processamento de linguagem natural e síntese de voz
-        para interação por áudio.
-      </p>
-      <a href="https://github.com/Iswb04/AUDIO_ASSIST">🔗 repositório</a>
-    </td>
-  </tr>
-</table>
