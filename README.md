@@ -174,18 +174,18 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h4>CHAMPION DATA TOOL</h4>
+      <h4>MONITOR DE TERREMOTOS</h4>
       <p>
         <img src="https://img.shields.io/badge/Python-1e3a5f?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/FastAPI-1e3a5f?style=flat&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/SQLite-1e3a5f?style=flat&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/Threading-1e3a5f?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/API-1e3a5f?style=flat&logo=json&logoColor=white">
       </p>
       <p>
-        API desenvolvida com FastAPI para consulta e organização
-        de dados de campeões de League of Legends, utilizando
-        dados do Data Dragon e banco SQLite.
+        Aplicação para consulta contínua de dados de uma API pública de terremotos,
+        utilizando arquitetura assíncrona (threads e filas) para entregar 
+        atualizações em tempo real mantendo a interface responsiva.
       </p>
-      <a href="https://github.com/Iswb04/SUMMONERS_API">🔗 repositório</a>
+      <a href="https://github.com/Iswb04/Earthquake-Finder">🔗 repositório</a>
     </td>
     <td align="center" width="50%">
       <h4>AUDIO ASSIST</h4>
@@ -195,6 +195,13 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
         <img src="https://img.shields.io/badge/Pyttsx3-1e3a5f?style=flat">
       </p>
       <p>
+        Assistente de voz local integrado com IA para processamento de linguagem 
+        e síntese de fala.
+      </p>
+      <a href="https://github.com/Iswb04/AUDIO_ASSIST">🔗 repositório</a>
+    </td>
+  </tr>
+</table>
         Assistente de IA voltado à acessibilidade, utilizando
         processamento de linguagem natural e síntese de voz
         para interação por áudio.
