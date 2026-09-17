@@ -174,7 +174,7 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h4>MONITOR DE TERREMOTOS</h4>
+      <h4> EARTHQUAKE MONITOR</h4>
       <p>
         <img src="https://img.shields.io/badge/Python-1e3a5f?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Threading-1e3a5f?style=flat&logo=python&logoColor=white">
