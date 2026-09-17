@@ -182,8 +182,8 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
       </p>
       <p>
         Aplicação para consulta contínua de dados de uma API pública de terremotos,
-        utilizando arquitetura assíncrona (threads e filas) para entregar 
-        atualizações em tempo real mantendo a interface responsiva.
+        utilizando arquitetura assíncrona (threads e filas) 
+        para entregar atualizações em tempo real.
       </p>
       <a href="https://github.com/Iswb04/Earthquake-Finder">🔗 repositório</a>
     </td>
