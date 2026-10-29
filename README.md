@@ -154,7 +154,7 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
         para transformar perguntas em linguagem natural em consultas SQL,
         executar análises e gerar respostas e exportações de dados.
       </p>
-      <a href="https://github.com/Iswb04/DB_READER">🔗 repositório</a>
+      <a href="https://github.com/Iswb04/DB_ANALYZER">🔗 repositório</a>
     </td>
     <td align="center" width="50%">
       <h4>PFCS</h4>
