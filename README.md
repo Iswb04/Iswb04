@@ -54,16 +54,6 @@ Entusiasta em Dados e Dev Python em formação. Minha trajetória na tecnologia 
 
 <img 
     align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/353657/django-icon.svg"         
-/>
-
-
-<img 
-    align="left" 
     alt="C" 
     title="C"
     width="30px" 
